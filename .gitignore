@@ -1,0 +1,24 @@
+
+# Compiled binaries
+server
+client
+worker
+benchmark_app
+
+# Object files
+*.o
+*.out
+
+# Debug files
+core
+core.*
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Runtime IPC resources
